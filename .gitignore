@@ -153,3 +153,4 @@ logs
 *.ods
 
 venv/
+gym-examples/

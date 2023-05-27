@@ -1,0 +1,12 @@
+cloudpickle==2.2.1
+Farama-Notifications==0.0.4
+gym==0.26.0
+-e git+https://github.com/Farama-Foundation/gym-examples@9a59496d266b83c8c6b3311b150f46030aca92fc#egg=gym_examples
+gym-notices==0.0.8
+gymnasium==0.28.1
+jax-jumpy==1.0.0
+kektris==0.0.2
+numpy==1.24.3
+pygame==2.1.0
+pyxel==1.9.12
+typing_extensions==4.5.0
